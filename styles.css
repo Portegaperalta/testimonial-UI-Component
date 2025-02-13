@@ -1,0 +1,15 @@
+:root {
+    --clr-bg: #F8F9FA;
+    --clr-txt: #0B163F;
+    --clr-green: #22C55E;
+    --clr-secondary-green: #5BB297;
+    --clr-light-green: #DEF4ED;
+    --clr-red: #FE6B7E;
+    --clr-light-red: #FCDDE1;
+    --clr-blue: #175CFF;
+    --clr-secondary-blue: #CEDDFF;
+}
+
+body {
+    background-color: var(--clr-bg);
+}
